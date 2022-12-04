@@ -43,7 +43,7 @@
 测试ip:156.240.107.254 (购买前ping测试一下延迟)
 ###### ![image](https://github.com/NOFKPROXY/NOFKPROXY/blob/main/img/ping.png)
 本地网络：湖南联通   [此延迟时间只是本地到云服务器的时间，但本地到目标矿池的延迟时间肯定会比这个长，具体取决于云服务器到目标矿池的延迟时间。](#试用与付费-1)
-### [试用及订购云服务器，<a href="https://www.nofkcloud.com" target="_blank">点这里</a> (需要注册登陆)](#试用与付费-1)
+#### [试用及订购云服务器，<a href="https://www.nofkcloud.com" target="_blank">点这里</a> (需要注册登陆)](#试用与付费-1)
 #### 登陆后左侧栏 产品与服务 - 订购产品  
 #### 注意：本网站只是方便大家订购云服务器，其它功能不可用。
 #

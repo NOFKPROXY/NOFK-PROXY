@@ -42,7 +42,7 @@
 #
 #
 ## [试用与付费](#试用与付费-1)
-#### 我们代购这家云服务器提供商算是一家老牌主机商，合作也有5年之久，在带宽及稳定性方面都还可以，目前提供二个配置，具体配置及价格如下：
+#### NOFK服务端所采用的服务器提供商是一家十几年的老牌主机商，合作也有5年之久，在带宽及稳定性方面都还可以，具体配置及价格如下(具体以网站显示为准)：
 ![image](https://github.com/NOFKPROXY/NOFKPROXY/blob/main/img/%E4%BB%B7%E6%A0%BC.jpg)
 测试ip:156.240.107.254 (购买前ping测试一下延迟)
 ###### ![image](https://github.com/NOFKPROXY/NOFKPROXY/blob/main/img/ping.png)
